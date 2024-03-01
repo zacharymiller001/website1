@@ -26,10 +26,13 @@ body {
     flex: 0.5;
     height: 80vh;
     margin: 5px;
+    position: relative;
 }
 
 .panel.active {
     flex: 5;
 }
 
-.panel h3
+.panel h3 {
+    font-size 24px;
+}
