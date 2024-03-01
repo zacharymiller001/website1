@@ -1,4 +1,6 @@
-
+* {
+    box-sizing: border-box;
+}
 
 body {
     height: 100vh;
@@ -18,9 +20,14 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    border-radius: 30px;
+    border-radius: 40px;
     color: white;
     cursor: pointer;
     flex: 0.5;
     height: 80vh;
+    margin: 5px;
+}
+
+.panel.active {
+    flex: 5;
 }
