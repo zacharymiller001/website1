@@ -31,3 +31,5 @@ body {
 .panel.active {
     flex: 5;
 }
+
+.panel h3
