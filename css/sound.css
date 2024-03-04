@@ -20,4 +20,9 @@ body {
     border: none;
     color: rgb(255,255,255);
     cursor: pointer;
+    font-family: "Mulish", sans-serif;
+}
+
+.btn:hover {
+    opacity: 0.8;
 }
