@@ -115,6 +115,7 @@ button, input[type='submit']{
     max-width: 100%;
 }
 
+
 .modal-container {
     position: fixed;
     top: 0;
@@ -122,6 +123,7 @@ button, input[type='submit']{
     left: 0;
     right: 0;
     background-color: rgba(0,0,0,0.6)
+    display: none;
 }
 
 .modal-container.show-modal {
