@@ -9,7 +9,7 @@ toggle.addEventListener('click', () => {
 })
 
 // show modal
-open.addEventListener('click' () => {
+open.addEventListener('click', () => {
     modal.classList.add('show-modal')
 })
 
