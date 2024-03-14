@@ -1,5 +1,5 @@
 toggle = document.getElementById('toggle')
-open - document.getElementById('open')
+open = document.getElementById('open')
 modal = document.getElementById('modal')
 close = document.getElementById('close')
 
